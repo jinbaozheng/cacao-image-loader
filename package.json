@@ -1,0 +1,35 @@
+{
+  "name": "cacao-image-loader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jinbaozheng/cacao-image-loader.git"
+  },
+  "keywords": [
+    "cacao-image",
+    "cacao-image-loader",
+    "cacao"
+  ],
+  "author": {
+    "email": "cuppi413@163.com",
+    "name": "cuppi",
+    "url": "https://github.com/cuppi"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jinbaozheng/cacao-image-loader/issues"
+  },
+  "homepage": "https://github.com/jinbaozheng/cacao-image-loader#readme",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
+  "devDependencies": {
+    "webpack": "^4.29.6",
+    "mocha": "^6.0.2"
+  }
+}
